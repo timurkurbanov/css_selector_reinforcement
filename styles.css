@@ -1,0 +1,12 @@
+p {
+    color: blue;
+}
+li a:hover{
+    color: red;
+}
+h1 {
+    font-size: 5em;
+}
+.l {
+    display:inline-block;
+}
